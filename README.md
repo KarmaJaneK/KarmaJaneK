@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<p align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,sass,java,powershell,vscode,webstorm,codepen,obsidian,stackoverflow,ubuntu)](https://skillicons.dev)
+      </a>
+</p>
 <!--
 **KarmaJaneK/KarmaJaneK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
