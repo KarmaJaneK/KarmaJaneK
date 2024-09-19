@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+###  Connect With Me 
+### Languages and Tools
 <p align="center">
   
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,sass,java,powershell,vscode,webstorm,codepen,obsidian,stackoverflow,ubuntu)](https://skillicons.dev)
