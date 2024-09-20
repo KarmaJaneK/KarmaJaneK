@@ -1,9 +1,13 @@
 ## Hi there 👋
-###  <img src="https://github.com/user-attachments/assets/fd7f2e9b-2059-4fa7-86e2-ed5409f0edd3" width="50" />Connect With Me 
-<img src="https://github.com/KarmaJaneK/KarmaJaneK/blob/88340732d65d4e1d6c9883837f06dd5efadefd3c/icons8-linkedin.gif" width="30"/>
-<img src="https://github.com/KarmaJaneK/KarmaJaneK/blob/ece3cd11ea93365721e56d78ccdebc6838bbaa27/icons8-linkedin%20(1).gif" width="30/">
+### Connect With Me 
 
-
+<a href="https://www.linkedin.com/in/karma-nel/#gh-light-mode-only">
+  <img src="https://github.com/KarmaJaneK/KarmaJaneK/blob/88340732d65d4e1d6c9883837f06dd5efadefd3c/icons8-linkedin.gif" width="50"/>
+</a>
+<a href="https://www.linkedin.com/in/karma-nel/#gh-dark-mode-only">
+  <img src="https://github.com/KarmaJaneK/KarmaJaneK/blob/ece3cd11ea93365721e56d78ccdebc6838bbaa27/icons8-linkedin%20(1).gif" width="50"/>
+</a>
+&nbsp;&nbsp;
 
 
 ### Languages and Tools
