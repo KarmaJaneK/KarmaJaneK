@@ -1,5 +1,9 @@
 ## Hi there 👋
-###  Connect With Me 
+###  <img src="https://github.com/user-attachments/assets/fd7f2e9b-2059-4fa7-86e2-ed5409f0edd3" width="50" />Connect With Me 
+
+
+
+
 ### Languages and Tools
 <p align="center">
   
