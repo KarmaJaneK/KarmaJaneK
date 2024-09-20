@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"> 
 
   
-  ### Connect With Me: 
+  ### <img src="https://github.com/KarmaJaneK/KarmaJaneK/blob/main/Connect.gif" width="30"> Connect With Me: 
   <a href="https://www.linkedin.com/in/karma-nel/#gh-light-mode-only">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70" style="vertical-align: middle;">
   </a> 
