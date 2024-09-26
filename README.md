@@ -20,6 +20,8 @@ I'm Karma, a recent Computer Science graduate passionate about web development a
 
 #### 🤔 I’m looking for help with:
 - Getting into open-source contributions to collaborate with a wider community.
+  <!-- Gradient Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"> 
 
 ### <img src="https://github.com/KarmaJaneK/KarmaJaneK/blob/main/Connect.gif" width="30"> Connect With Me: 
   <a href="https://www.linkedin.com/in/karma-nel/">
