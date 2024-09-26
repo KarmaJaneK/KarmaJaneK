@@ -3,7 +3,7 @@
 <!-- Gradient Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"> 
 
-### About Me
+### <img src="https://github.com/KarmaJaneK/KarmaJaneK/blob/b5acaeddf05f3f53c86ddce18770166c6669a9dd/icons8-person-female.gif" width="30"> About Me
 
 I'm Karma, a recent Computer Science graduate passionate about web development and software engineering.
 
@@ -22,10 +22,9 @@ I'm Karma, a recent Computer Science graduate passionate about web development a
 - Getting into open-source contributions to collaborate with a wider community.
 
 ### <img src="https://github.com/KarmaJaneK/KarmaJaneK/blob/main/Connect.gif" width="30"> Connect With Me: 
-  <a href="https://www.linkedin.com/in/karma-nel/#gh-light-mode-only">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70" style="vertical-align: middle;">
+  <a href="https://www.linkedin.com/in/karma-nel/">
+    <img src="https://github.com/KarmaJaneK/KarmaJaneK/blob/68b8113a1ffb36532733177cfbe111832b7a0019/icons8-linkedin-48.png" width="70" style="vertical-align: middle;">
   </a> 
-  
 <!-- Gradient Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"> 
 
