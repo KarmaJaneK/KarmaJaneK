@@ -3,8 +3,25 @@
 <!-- Gradient Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"> 
 
-  
-  ### <img src="https://github.com/KarmaJaneK/KarmaJaneK/blob/main/Connect.gif" width="30"> Connect With Me: 
+### About Me
+
+I'm Karma, a recent Computer Science graduate passionate about web development and software engineering.
+
+ #### 🔭 I’m currently working on:
+ - Building a 3D GitHub Contribution Graph using GitHub Actions.
+ - Developing a professional portfolio to showcase my projects and design work.
+
+#### 🌱 I’m currently learning:
+- Full Stack JavaScript through The Odin Project
+
+#### 👯 I’m looking to collaborate on:
+- Creative JavaScript projects, especially those focused on interactive UI/UX.
+- Open-source projects
+
+#### 🤔 I’m looking for help with:
+- Getting into open-source contributions to collaborate with a wider community.
+
+### <img src="https://github.com/KarmaJaneK/KarmaJaneK/blob/main/Connect.gif" width="30"> Connect With Me: 
   <a href="https://www.linkedin.com/in/karma-nel/#gh-light-mode-only">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70" style="vertical-align: middle;">
   </a> 
